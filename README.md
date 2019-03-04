@@ -1,2 +1,2 @@
 # everydoor
-The web static server
+ static resource server
